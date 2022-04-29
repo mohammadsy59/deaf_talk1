@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "426707961206",
+    "project_id": "deaf-talk-66ca8",
+    "storage_bucket": "deaf-talk-66ca8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426707961206:android:b77872c91bf7335a522657",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426707961206-2llqo5nsp7v02uhdu5scaqh9dfpcd4ch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEhHgHyp3Q5yr4qI3pUf1QUZXH1S336I4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "426707961206-2llqo5nsp7v02uhdu5scaqh9dfpcd4ch.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
